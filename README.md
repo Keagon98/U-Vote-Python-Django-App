@@ -4,22 +4,20 @@
 
 ## How to Quick Start the App
 
-> #Install dependencies
+>#Install dependencies
+    pipenv install
 
-pipenv install
-
-
-cd myPoll
+    cd myPoll
 
 
-> #Serve on localhost:8000
+>#Serve on localhost:8000
 
-python managr.py runserver
+    python manage.py runserver
 
 ### Author
 
-Keagon Brinkhuis
+    Keagon Brinkhuis
 
 ### Version 
 
-1.0.0
+    1.0.0
